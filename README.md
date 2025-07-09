@@ -1,5 +1,7 @@
 # CSE201 Term Project - Automated Teller Machine (ATM) System (Fall 2024)
 
+![ATM](ATM.png)
+
 ## 📌 Project Overview
 
 This is the official implementation for the **CSE201 Term Project** (Fall 2024), focusing on designing and building a **console-based ATM (Automated Teller Machine)** system using **Object-Oriented Programming (OOP)** principles in C++. The system simulates interactions among users, ATMs, and banks, allowing for typical banking operations such as deposit, withdrawal, transfer, and admin management.
